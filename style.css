@@ -4,6 +4,16 @@ body {
     font-family: 'Arial', 'Helvetica Neue', Arial, Helvetica, sans-serif;
     color: #777;
     background-color: #777;
-    width: '960px';
-    font-size: '18px';
+    width:960px;
+    font-size:18px;
 }
+
+#header {
+    background-color: #ebebeb;
+    padding: 20px;
+    color: gray;
+    
+}
+
+
+
