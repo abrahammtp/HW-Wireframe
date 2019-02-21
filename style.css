@@ -8,6 +8,7 @@ body {
     font-size: 18px;
 }
 
+/*Top of the page, first box*/
 #header {
     background-color: #ebebeb;
     padding: 35px;
@@ -17,7 +18,7 @@ body {
     text-align: center;
     margin-top: 9px;
 }
-
+/*Second box coming from the top*/
 #nav {
     background-color: #ebebeb;
     padding: 35px;
