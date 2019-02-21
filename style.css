@@ -9,6 +9,7 @@ body {
 }
 
 /*Top of the page, first box*/
+
 #header {
     background-color: #ebebeb;
     padding: 35px;
@@ -18,7 +19,9 @@ body {
     text-align: center;
     margin-top: 9px;
 }
+
 /*Second box coming from the top*/
+
 #nav {
     background-color: #ebebeb;
     padding: 35px;
@@ -28,6 +31,8 @@ body {
     text-align: center;
     margin-top: 10px;
 }
+
+/*This is the box containing h1, h2 and h3 which is going to be inside the big "Section" box*/ 
 
 #letters {
     background-color: #ebebeb;
@@ -43,6 +48,8 @@ body {
     font-weight: bold;
 }
 
+/*This box is also going to be inside the bigger "Section" box, and it will have "p" inside it*/
+
 #p {
     background-color: #ebebeb;
     clear: both;
@@ -54,8 +61,9 @@ body {
     margin-top: 120px;
     height: 50px;
     padding-top: 20px;
-
 }
+
+/*This box will be the darker 
 
 #article {
     background-color: #777;
