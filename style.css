@@ -63,7 +63,7 @@ body {
     padding-top: 20px;
 }
 
-/*This box will be the darker 
+/*This box will be the darker box named "article", which is going to house boxes "p" and "h1, h2, h3"*/
 
 #article {
     background-color: #777;
@@ -74,6 +74,8 @@ body {
     padding-top: 20px;
     margin-top: 3px;
 }
+
+/*This "aside" box will have the same size as the "section" one and it will be on the right"*/
 
 #aside {
     background-color: #ebebeb;
@@ -87,6 +89,8 @@ body {
     clear: both;
 }
 
+/*The "box" box is going to be the very last one, same size as "header" and "nav"*/
+
 #footer {
     background-color: #ebebeb;
     padding: 35px;
@@ -98,6 +102,8 @@ body {
     clear: both;
     margin-left: 200px;
 }
+
+/*"container" is going to house the boxes "section, artilce, h1 h2 h3 and p"*/
 
 .container {
     background-color: #ebebeb;
