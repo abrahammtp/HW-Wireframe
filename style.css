@@ -10,9 +10,29 @@ body {
 
 #header {
     background-color: #ebebeb;
-    padding: 20px;
+    padding: 35px;
     color: gray;
-    
+    width: 990px;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 9px;
+}
+
+#nav {
+    background-color: #ebebeb;
+    padding: 35px;
+    color: gray;
+    width: 990px;
+    margin-left: 200px;
+    text-align: center;
+    margin-top: 10px;
+}
+
+#section {
+    background-color: #ebebeb;
+    width: 500px;
+    color: gray;
+    margin-left: 760px;
 }
 
 
